@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorMaleIcon">#1c40ff</color>
+    <color name="colorFemaleIcon">#ff0672</color>
+    <color name="colorGreen">#008000</color>
+    <color name="colorAzure">#007FFF</color>
+    <color name="colorMagneta">#FF00FF</color>
+    <color name="colorViolet">#7f00ff</color>
+    <color name="colorCyan">#00ffff</color>
+    <color name="colorRose">#ff007f</color>
+    <color name="colorYellow"> #ffff00</color>
+    <color name="colorOrange">#ffa500</color>
+    <color name="colorBlue">#0000ff</color>
+    <color name="colorRed">#ff0000</color>
+</resources>

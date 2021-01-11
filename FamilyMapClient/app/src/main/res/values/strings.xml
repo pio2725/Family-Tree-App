@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Family Map</string>
+    <string name="server_host_view">Server Host:</string>
+    <string name="server_port_view">Server Port:</string>
+    <string name="username_view">User Name:</string>
+    <string name="password_view">Password:</string>
+    <string name="first_name_view">First Name:</string>
+    <string name="last_name_view">Last Name:</string>
+    <string name="email_view">Email:</string>
+    <string name="gender_view">Gender:</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="register">REGISTER</string>
+    <string name="mapFragmentMessage">Family Map</string>
+    <string name="searchMenu">Search</string>
+    <string name="settingMenu">Setting</string>
+    <string name="life_stroy_lines">Life Story Lines</string>
+    <string name="life_story_sub">SHOW LIFE STORY LINES</string>
+    <string name="family_tree_lines">Family Tree Lines</string>
+    <string name="family_tree_sub">SHOW FAMILY TREE LINES</string>
+    <string name="spouse_lines">Spouse Lines</string>
+    <string name="spouse_lines_sub">SHOW SPOUSE LINES</string>
+    <string name="father_side">Father\'s Side</string>
+    <string name="father_side_sub">FILTER BY FATHER\'S SIDE OF FAMILY</string>
+    <string name="mother_side">Mother\'s Side</string>
+    <string name="mother_side_sub">FILTER BY MOTHER\'S SIDE OF FAMILY</string>
+    <string name="gender_event_sub">FILTER EVENTS BASED ON GENDER</string>
+    <string name="female_event">Female Events</string>
+    <string name="male_event">Male Events</string>
+    <string name="logout">Logout</string>
+    <string name="logout_sub">RETURN TO LOGIN SCREEN</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="gender">Gender</string>
+
+</resources>
