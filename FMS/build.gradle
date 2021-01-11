@@ -1,0 +1,24 @@
+plugins {
+    id 'java'
+}
+
+group 'FMS'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'org.junit.jupiter', name: 'junit-jupiter-api', version: '5.5.1'    
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.3.1'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.3.1'
+    compile group:'org.xerial', name:'sqlite-jdbc', version:'3.27.2.1'
+    compile group: 'com.google.code.gson', name: 'gson', version: '2.7'
+}
+
+test {
+    useJUnitPlatform()
+}
